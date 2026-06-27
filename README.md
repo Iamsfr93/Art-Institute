@@ -82,25 +82,6 @@ ArtInstitute
 * Pull to Refresh
 * Error Handling
 
-⸻
-
-📸 Screenshots
-
-Artwork List
-
-Add screenshot here
-
-Search
-
-Add screenshot here
-
-Artwork Details
-
-Add screenshot here
-
-About Screen
-
-Add screenshot here
 
 ⸻
 
